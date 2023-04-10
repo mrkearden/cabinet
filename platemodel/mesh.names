@@ -1,0 +1,7 @@
+! ----- names for bodies -----
+$ air = 1
+! ----- names for boundaries -----
+$ disk = 1
+$ outlet = 2
+$ walls = 3
+$ baase = 4
